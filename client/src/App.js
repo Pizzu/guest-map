@@ -26,7 +26,7 @@ const schema = Joi.object().keys({
     message: Joi.string().min(1).max(500).required()
 });
 
-const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:5000/api/v1/messages' : 'https://express-api-starter-aoxmerngvm.now.sh/api/v1/messages'
+const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:5000/api/v1/messages' : 'https://express-api-starter-otmitevhub.now.sh/api/v1/messages'
 
 class App extends Component {
 

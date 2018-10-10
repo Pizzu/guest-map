@@ -28,7 +28,7 @@
 * [x] Add pins to the map
 * [x] Click a pin to see the message
 * [] DEPLOY!
-  * [x] https://build-oqjclkrlpb.now.sh/
+  * [x] https://build-dbdeqihrzr.now.sh/
 * Refactor React app
   * seperate components
   * seperate file for API requests
